@@ -1,5 +1,9 @@
 # CRUD en Prisma
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=TxPtvk-zrnQ
+
+### David Correa: https://youtu.be/xjgjxeX1VOg
+
 ## 1. Introducción
 
 Prisma es un ORM (Object-Relational Mapping) moderno para Node.js y TypeScript que facilita la gestión de bases de datos. Una de sus características más importantes es la capacidad de realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) de manera eficiente y tipada, simplificando la interacción con la base de datos.
@@ -153,3 +157,7 @@ Prisma simplifica las operaciones CRUD mediante un enfoque tipado y eficiente, m
 - Prisma Best Practices for Node.js Developers: A Comprehensive Guide. (s. f.). https://codeit.mk/home/blog/Prisma-Best-Practices-for-Node.js-Developers--A-Comprehensive-Guide
 - Prisma | Simplify working and interacting with databases. (s. f.). Prisma. https://www.prisma.io/
 - Pratama, P. P. (2023, 17 septiembre). Getting Started with Prisma ORM in Nest.js: A Comprehensive Guide. Medium. https://medium.com/google-developer-indonesia/getting-started-with-prisma-orm-in-nest-js-a-comprehensive-guide-787bdb65c02e
+
+### Pull Request
+
+![](PullRequest.png)

@@ -1,5 +1,9 @@
 # Controladores en NestJS
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=HZ6KtABSfFo
+
+### David Correa: https://youtu.be/3s2v_DlzlGU
+
 ## 1. Introducción
 
 NestJS es un framework progresivo para construir aplicaciones del lado del servidor en Node.js, utilizando TypeScript. Un componente clave de NestJS son los controladores, que manejan las solicitudes entrantes y devuelven las respuestas al cliente.
@@ -121,3 +125,7 @@ NestJS, con su enfoque modular y basado en decoradores, permite una estructura c
 - De las Tecnologías de la Información y las Comunicaciones - Universidad de Almería, S. (s. f.). Introducción a NestJS. https://ualmtorres.github.io/SeminarioNestJS/?ref=reactivisima.com
 
 ---
+
+### Pull Request
+
+![](PullRequest.png)

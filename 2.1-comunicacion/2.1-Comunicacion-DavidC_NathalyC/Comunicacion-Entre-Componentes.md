@@ -153,3 +153,7 @@ Los decoradores `@Input` y `@Output` son herramientas poderosas en Angular para 
 - Amazon.com. (s. f.). https://www.amazon.com/Mastering-Angular-Comprehensive-Guide-development/dp/B0CMQVHB4P
 - Amazon.in. (s. f.). https://www.amazon.in/Angular-Practice-applications-tomorrow-framework-ebook/dp/B01N9S0CZN
 - Horvatić, P. (2024, 18 enero). Guidelines for creating performant Angular applications and their efficient maintenance. Medium. https://medium.com/@patrik.horva90/guidelines-for-creating-performant-angular-applications-and-their-efficient-maintenance-6c7537bd56cf
+
+### Pull Request
+
+![](PullRequest.png)

@@ -1,5 +1,9 @@
 # Deploy en Prisma con Railway
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=--3lhKQxzRo
+
+### David Correa: https://youtu.be/W6D3axbJipU
+
 ## 1. Introducción
 
 Railway es una plataforma en la nube que permite desplegar aplicaciones de manera sencilla. Junto con Prisma, proporciona una forma eficiente de gestionar y desplegar aplicaciones que interactúan con bases de datos. Este tutorial describe cómo realizar el deploy de una aplicación Prisma en Railway, utilizando una instancia de PostgreSQL y un repositorio de GitHub.
@@ -126,3 +130,7 @@ Railway y Prisma proporcionan una solución potente y sencilla para el despliegu
 - Pratama, P. P. (2023, 17 septiembre). Getting Started with Prisma ORM in Nest.js: A Comprehensive Guide. Medium. https://medium.com/google-developer-indonesia/getting-started-with-prisma-orm-in-nest-js-a-comprehensive-guide-787bdb65c02e
 - Kale, V., & Akshay. (2024, 22 mayo). Mastering Prisma ORM in Node.js: A Comprehensive Guide. Mindbowser. https://www.mindbowser.com/prisma-orm-nodejs-development-guide/
 - Railway. (s. f.). Railway. https://railway.app/
+
+### Pull Request
+
+![](PullRequest.png)

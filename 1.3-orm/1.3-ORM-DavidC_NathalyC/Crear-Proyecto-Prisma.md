@@ -1,5 +1,9 @@
 # Creación de un Proyecto en Prisma
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=zy3OmUqNDlw
+
+### David Correa: https://youtu.be/I-tJgsMR-fY
+
 ## 1. Introducción
 
 Prisma es un ORM (Object-Relational Mapping) moderno para Node.js y TypeScript, diseñado para facilitar la interacción con bases de datos. Proporciona una capa de abstracción que simplifica las consultas y mutaciones de datos, mejorando la productividad y reduciendo errores comunes.
@@ -137,3 +141,7 @@ Prisma simplifica el desarrollo de aplicaciones al proporcionar herramientas pod
 - Prisma | Simplify working and interacting with databases. (s. f.). Prisma. https://www.prisma.io/
 - Kale, V., & Akshay. (2024, 22 mayo). Mastering Prisma ORM in Node.js: A Comprehensive Guide. Mindbowser. https://www.mindbowser.com/prisma-orm-nodejs-development-guide/
 - Prisma Best Practices for Node.js Developers: A Comprehensive Guide. (s. f.). https://codeit.mk/home/blog/Prisma-Best-Practices-for-Node.js-Developers--A-Comprehensive-Guide
+
+### Pull Request
+
+![](PullRequest.png)
