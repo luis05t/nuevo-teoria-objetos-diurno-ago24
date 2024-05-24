@@ -1,5 +1,9 @@
 # Comunicación entre Componentes con Angular
 
+### Nathaly Caballero: https://www.youtube.com/watch?v=--3lhKQxzRo
+
+### David Correa: https://youtu.be/W6D3axbJipU
+
 ## 1. Introducción
 
 Angular es un framework popular para construir aplicaciones web dinámicas y escalables. Una de sus características más importantes es la capacidad de facilitar la comunicación entre componentes. En Angular, los componentes son las unidades básicas de la aplicación, y la comunicación entre ellos es esencial para la construcción de aplicaciones complejas y funcionales. Los decoradores `@Input` y `@Output` juegan un papel crucial en este proceso.
